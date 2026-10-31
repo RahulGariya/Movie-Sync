@@ -93,7 +93,7 @@ Follow these steps to run MovieSync locally.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/ypandey700/MovieSync.git
+git clone https://github.com/RahulGariya/Movie-Sync.git
 ```
 
 ```bash
@@ -182,9 +182,24 @@ The authentication workflow:
 
 ## 👨‍💻 Contributors
 
-Developed as a collaborative full-stack development project.
+MovieSync was developed as a collaborative full-stack development project by:
+
+| Contributor | GitHub Profile |
+|---|---|
+| Rahul Gariya | [@RahulGariya](https://github.com/RahulGariya) |
+| Yogesh Pandey | [@ypandey700](https://github.com/ypandey700) |
+| Umesh Kumar | [@umesshk](https://github.com/umesshk) |
+| Prabhakar Nainwal | [@Prabhakar-Nainwal](https://github.com/Prabhakar-Nainwal) |
+
+## 📌 Repository
+
+**GitHub Repository:** [MovieSync](https://github.com/RahulGariya/Movie-Sync)
 
 ---
+
+⭐ If you find MovieSync interesting, don't forget to star the repository!
+
+**MovieSync – Bringing people together, one movie at a time.**
 
 ⭐ If you find this project interesting, consider giving the repository a star!
 
