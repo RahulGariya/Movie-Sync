@@ -184,10 +184,6 @@ The authentication workflow:
 
 Developed as a collaborative full-stack development project.
 
-## 📌 Repository
-
-**GitHub:** https://github.com/ypandey700/MovieSync
-
 ---
 
 ⭐ If you find this project interesting, consider giving the repository a star!
